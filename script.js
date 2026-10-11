@@ -1,7 +1,4 @@
 function stringChop(str, size) {
-	if (str.length===0) {
-		return [];
-	}
 	let result = [];
     let newStr = "";
     for(let i=0;i<str.length;i++){
