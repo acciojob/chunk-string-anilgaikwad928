@@ -1,6 +1,6 @@
 function stringChop(str, size) {
 if (str === null) {
-    return result;
+    return [];
 }
 
 size = Number(size);
